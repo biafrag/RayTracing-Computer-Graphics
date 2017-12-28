@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>fragmentshader.glsl</file>
+        <file>vertexshader.glsl</file>
+    </qresource>
+    <qresource prefix="/textures">
+        <file>cube_texture.png</file>
+        <file>sphere_texture.jpg</file>
+    </qresource>
+</RCC>
